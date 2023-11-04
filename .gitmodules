@@ -4,3 +4,6 @@
 [submodule "website-cs498"]
 	path = website-cs498
 	url = https://github.com/BentleyCreated/website-cs498
+[submodule "corroded_cipher_base"]
+	path = corroded_cipher_base
+	url = https://github.com/KevinCPP/corroded_cipher_base
