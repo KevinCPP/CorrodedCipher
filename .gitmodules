@@ -1,0 +1,3 @@
+[submodule "Corroded-GUI"]
+	path = Corroded-GUI
+	url = https://github.com/floskk/Corroded-GUI
