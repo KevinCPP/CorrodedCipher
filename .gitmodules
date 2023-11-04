@@ -1,3 +1,6 @@
 [submodule "Corroded-GUI"]
 	path = Corroded-GUI
 	url = https://github.com/floskk/Corroded-GUI
+[submodule "website-cs498"]
+	path = website-cs498
+	url = https://github.com/BentleyCreated/website-cs498
